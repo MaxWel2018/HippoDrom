@@ -1,6 +1,6 @@
 package hippo;
 
-import myrand.MyMetods;
+import myMetods.MyMetods;
 
 import java.util.List;
 import java.util.Scanner;

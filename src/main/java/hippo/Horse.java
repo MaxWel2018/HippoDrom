@@ -1,6 +1,6 @@
 package hippo;
 
-import myrand.MyMetods;
+import myMetods.MyMetods;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package myrand;
+package myMetods;
 
 public class MyMetods {
     public static int rnd(int min, int max)
